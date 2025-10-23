@@ -27,11 +27,8 @@ Pengguna dapat memainkan game Battleship di console dengan logika permainan yang
 
 ## 🧪 Struktur Proyek  
 ├── banner.go — menampilkan banner atau tampilan awal
-
 ├── game.go — logika inti permainan
-
 ├── main.go — titik masuk aplikasi
-
 └── player.go — representasi pemain (manusia vs komputer)
 
 ---
